@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-02-10T00:00:00Z",
+  "lastUpdated": "2026-02-21T00:00:00Z",
   "baseUrl": "https://raw.githubusercontent.com/vana-com/data-connectors/main",
   "connectors": [
     {
@@ -14,7 +14,7 @@
         "metadata": "openai/chatgpt-playwright.json"
       },
       "checksums": {
-        "script": "sha256:ce1909cfa5eb35a3d5d58d3df3bd7e1aba63c29170200759c1832c91b8c5ee51",
+        "script": "sha256:96836d093a74f111831aae5f20373f315c750af02afad7e9c9fdc50e7ae4c3d1",
         "metadata": "sha256:8063c35a23001521430fe1f49f149da78080845f13a3c4b2823df778dd46b3d7"
       }
     },
@@ -29,8 +29,8 @@
         "metadata": "meta/instagram-playwright.json"
       },
       "checksums": {
-        "script": "sha256:2164d4689d2850acb7171a1360c8e08a1d25a11a060e47882d9fcf6118205a87",
-        "metadata": "sha256:724c2889e9ca811957ccb74e50b3e67b604d9f6802341a96768b906fc27229b8"
+        "script": "sha256:da0711993fb252e51b1f729c2148feb340d776a598435203875ea780b7cc7e65",
+        "metadata": "sha256:b00015e3599195f931f8227f1be8789784ac7f1394305bc3e2aba49da30a69ad"
       }
     },
     {
@@ -44,7 +44,7 @@
         "metadata": "linkedin/linkedin-playwright.json"
       },
       "checksums": {
-        "script": "sha256:d002d0a485f6db0d681b5d89fc86519ea4e7203c09d45a76037997c475b5c8d0",
+        "script": "sha256:8099b6d82145636b4f1a58f06446274a51f30742054a13859306d1d34c9288d2",
         "metadata": "sha256:a21b8ff9517c099ca7392f9e381c76bba8e9a327d38e0ca75ffe0dc8e2413639"
       }
     },
@@ -59,8 +59,8 @@
         "metadata": "spotify/spotify-playwright.json"
       },
       "checksums": {
-        "script": "sha256:665a010ce5cc1d44a5278f010a56dafa94ff00e4dcd6458fb22afe3d01a505a4",
-        "metadata": "sha256:b556e27341f88d841cf09cf68e0f9b9fa262f64465b2aa2cf9b64c831fe0a6eb"
+        "script": "sha256:26f5aa145e5ef6d7ce6abd791287d6e0ad2e2d68aa2769a938ff47d40b7e952c",
+        "metadata": "sha256:e68b0367d1b5527338b65f4930ac433cc6caa342a31880dd587074b2ee5a6b3e"
       }
     }
   ]
