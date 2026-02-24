@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "lastUpdated": "2026-02-21T00:00:00Z",
+  "lastUpdated": "2026-02-22T00:00:00Z",
   "baseUrl": "https://raw.githubusercontent.com/vana-com/data-connectors/main",
   "connectors": [
     {
@@ -16,6 +16,21 @@
       "checksums": {
         "script": "sha256:96836d093a74f111831aae5f20373f315c750af02afad7e9c9fdc50e7ae4c3d1",
         "metadata": "sha256:8063c35a23001521430fe1f49f149da78080845f13a3c4b2823df778dd46b3d7"
+      }
+    },
+    {
+      "id": "github-playwright",
+      "company": "github",
+      "version": "1.1.3",
+      "name": "GitHub",
+      "description": "Exports your GitHub profile, repositories, and starred repositories using Playwright browser automation.",
+      "files": {
+        "script": "github/github-playwright.js",
+        "metadata": "github/github-playwright.json"
+      },
+      "checksums": {
+        "script": "sha256:602a3abbad89207c7f7ed1827765f152620e9c086ff090530e9eb70a65c14941",
+        "metadata": "sha256:01b55f6d857f8bfa554bb91be4a8cb117f7a728139da2812abe6b4e533a2a5da"
       }
     },
     {
