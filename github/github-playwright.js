@@ -216,7 +216,7 @@ const extractStarred = async (username) => {
     try {
       for (const pageUrl of pageUrls) {
         await page.goto(pageUrl);
-        await page.sleep(1200);
+        await page.sleep(1500);
 
         const candidate = await page.evaluate(`
           (() => {
